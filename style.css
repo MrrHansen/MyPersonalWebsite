@@ -1,0 +1,74 @@
+/*
+Bakrundsbild
+*/
+
+body{
+    margin:0px;
+    padding:0px;
+    background-image: url("http://markinternational.info/data/out/348/221809394-websites-for-hd-wallpapers.jpg");
+    background-repeat: no-repeat;
+   width: auto ;
+  max-width: 100% ;
+  height: auto ;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #07165c;
+  }
+  /*
+Float är vart allting ligger på sidan, Höger, vänster.
+  */
+  li {
+    float: left;
+  }
+  /*
+Nav bar. 
+  */
+  li a {
+    display: block;
+    color: white;
+    font-size:20px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /*
+Länkarna blir ljusblå
+  */
+  li a:hover {
+    background-color: #061869;
+  }
+/*
+Rubrik
+*/
+.h1Stil{
+ font-family:Berlin Sans FB;
+ font-size:70px;
+ color:rgb(245, 245, 110);
+ text-align:center;
+
+}
+/*
+Radius på bilden
+*/
+.imgStil{
+    height:300px;
+    width:600px;
+    border-radius:10%;
+    
+}
+/*
+Brödatext 
+*/
+.pStil{
+    font-family:Berlin Sans FB;
+    font-size:25px;
+    color:rgb(2, 2, 0);
+    text-align:center;
+   
+   }
