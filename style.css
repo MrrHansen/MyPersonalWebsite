@@ -1,23 +1,24 @@
 /*
 Bakrundsbild
 */
-
 body{
     margin:0px;
     padding:0px;
-    background-image: url("http://markinternational.info/data/out/348/221809394-websites-for-hd-wallpapers.jpg");
+    background-image: url("https://wallpaperplay.com/walls/full/a/6/7/59167.jpg");
     background-repeat: no-repeat;
    width: auto ;
   max-width: 100% ;
   height: auto ;
 }
-
+/*
+Nav bar color
+*/
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #07165c;
+    background-color: #050549fd;
   }
   /*
 Float är vart allting ligger på sidan, Höger, vänster.
@@ -49,7 +50,7 @@ Rubrik
 .h1Stil{
  font-family:Berlin Sans FB;
  font-size:70px;
- color:rgb(245, 245, 110);
+ color:rgb(221, 250, 93);
  text-align:center;
 
 }
@@ -68,7 +69,7 @@ Brödatext
 .pStil{
     font-family:Berlin Sans FB;
     font-size:25px;
-    color:rgb(2, 2, 0);
+    color:rgb(253, 247, 247);
     text-align:center;
    
-   }
+} 
